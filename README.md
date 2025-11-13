@@ -123,7 +123,6 @@ assets/
 1. Clone repository ini
 ```bash
 git clone https://github.com/pashamn/UTS-Pemerograman-Mobile.git
-cd uts_mobile_app
 ```
 
 2. Install dependencies
