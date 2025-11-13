@@ -26,7 +26,7 @@ Menu utama aplikasi yang terdiri dari 5 navigasi:
 - Kalkulator
 - Cuaca
 - Berita
-- 
+  
 ### 3. Halaman Biodata
 Fitur:
 - Menampilkan foto profil 
@@ -122,7 +122,7 @@ assets/
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/pashamn/UTS-Pemerograman-Mobile
+git clone https://github.com/pashamn/UTS-Pemerograman-Mobile.git
 cd uts_mobile_app
 ```
 
